@@ -1,7 +1,7 @@
 # GitHub Pages Deployment Guide
 
 ## 🎯 Goal
-Deploy your portfolio to: `https://rahulgupta30.github.io/`
+Deploy your portfolio to: `https://rahulgupta.github.io/`
 
 ## 📋 Prerequisites
 - GitHub account (username: Rahulgupta30)
@@ -13,7 +13,7 @@ Deploy your portfolio to: `https://rahulgupta30.github.io/`
 ### Step 1: Create Repository
 1. Go to [GitHub.com](https://github.com)
 2. Click "+" → "New repository"
-3. **Important**: Name it exactly: `rahulgupta30.github.io` (use your GitHub username)
+3. **Important**: Name it exactly: `rahulgupta.github.io`
 4. Make it **Public**
 5. Don't initialize with README (we already have files)
 6. Click "Create repository"
@@ -33,7 +33,7 @@ git add .
 git commit -m "Initial portfolio deployment"
 
 # Add GitHub repository as remote
-git remote add origin https://github.com/Rahulgupta30/rahulgupta30.github.io.git
+git remote add origin https://github.com/Rahulgupta30/rahulgupta.github.io.git
 
 # Push to GitHub
 git push -u origin main
@@ -49,7 +49,7 @@ git push -u origin main
 7. Click "Save"
 
 ### Step 4: Access Your Website
-- Your website will be live at: `https://rahulgupta30.github.io/`
+- Your website will be live at: `https://rahulgupta.github.io/`
 - It may take 5-10 minutes to deploy
 
 ## 🔧 Important Files to Check
@@ -65,4 +65,4 @@ git push -u origin main
 - GitHub Pages is free for public repositories
 
 ## 🎉 Success!
-Once deployed, share your portfolio: `https://rahulgupta30.github.io/`
+Once deployed, share your portfolio: `https://rahulgupta.github.io/`
