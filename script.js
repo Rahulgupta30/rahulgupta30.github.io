@@ -355,40 +355,10 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', () => updateActiveNavLink());
     
     // ===================================
-    // 6. SKILL BARS ANIMATION
+    // 6. SKILLS SECTION (Progress bars removed)
     // ===================================
-    
-    function animateSkillBars() {
-        const skillBars = document.querySelectorAll('.skill-progress');
-        
-        skillBars.forEach(bar => {
-            const progress = bar.getAttribute('data-progress') || '0';
-            const progressBar = bar.querySelector('.skill-progress-bar');
-            
-            if (progressBar) {
-                // Reset and animate
-                progressBar.style.width = '0%';
-                setTimeout(() => {
-                    progressBar.style.width = progress + '%';
-                }, 200);
-            }
-        });
-    }
-    
-    // Trigger skill animation when skills section is in view
-    const skillsSection = document.getElementById('skills');
-    if (skillsSection) {
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    animateSkillBars();
-                    observer.unobserve(entry.target);
-                }
-            });
-        }, { threshold: 0.5 });
-        
-        observer.observe(skillsSection);
-    }
+    // Skills section now uses simple icon-based layout
+    // No animation needed for the new design
     
     // ===================================
     // 7. CONTACT FORM FUNCTIONALITY
