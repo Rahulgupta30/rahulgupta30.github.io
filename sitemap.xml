@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://rahulgupta.dev/</loc>
+        <loc>https://rahul-gupta.me/</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#about</loc>
+        <loc>https://rahul-gupta.me/#about</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#projects</loc>
+        <loc>https://rahul-gupta.me/#projects</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#experience</loc>
+        <loc>https://rahul-gupta.me/#experience</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#skills</loc>
+        <loc>https://rahul-gupta.me/#skills</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#certifications</loc>
+        <loc>https://rahul-gupta.me/#certifications</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://rahulgupta.dev/#contact</loc>
+        <loc>https://rahul-gupta.me/#contact</loc>
         <lastmod>2025-07-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

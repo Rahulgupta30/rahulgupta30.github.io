@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://rahulgupta.dev/sitemap.xml
+Sitemap: https://rahul-gupta.me/sitemap.xml
 
 # Crawl delay
 Crawl-delay: 1

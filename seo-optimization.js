@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Add rel="noopener noreferrer" to external links
-    const externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="rahulgupta.dev"])');
+    const externalLinks = document.querySelectorAll('a[href^="http"]:not([href*="rahul-gupta.me"])');
     externalLinks.forEach(link => {
         if (!link.hasAttribute('rel')) {
             link.setAttribute('rel', 'noopener noreferrer');
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
     breadcrumb.innerHTML = `
         <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="sr-only">
             <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="https://rahulgupta.dev">
+                <a itemprop="item" href="https://rahul-gupta.me">
                     <span itemprop="name">Home</span>
                 </a>
                 <meta itemprop="position" content="1" />

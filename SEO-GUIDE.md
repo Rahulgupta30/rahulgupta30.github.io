@@ -93,10 +93,10 @@
 - [ ] Track keyword rankings
 
 ## 🔗 Important URLs
-- **Live Site**: https://rahulgupta.dev
-- **Sitemap**: https://rahulgupta.dev/sitemap.xml
-- **Robots.txt**: https://rahulgupta.dev/robots.txt
-- **Manifest**: https://rahulgupta.dev/manifest.json
+- **Live Site**: https://rahul-gupta.me
+- **Sitemap**: https://rahul-gupta.me/sitemap.xml
+- **Robots.txt**: https://rahul-gupta.me/robots.txt
+- **Manifest**: https://rahul-gupta.me/manifest.json
 
 ## 📝 Content Keywords Focus
 - **Primary**: Full Stack Developer, Python Developer, Django Developer
