@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://rahulgupta.dev/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow specific files
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /temp/
